@@ -1,0 +1,406 @@
+﻿<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Drawing.Common" name="System.Drawing.Common, Version=5.0.0.2, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51" />
+  <data name="pictureBox1.Image" type="System.Drawing.Bitmap, System.Drawing.Common" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAAp4AAADrCAYAAADABpbIAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
+        YQUAADxeSURBVHhe7Z2LsxzVfef1f0DWW7ubirHj7Fat493UbrY2thN7sxvb2E7Km6TsyIBgwdiAHT/A
+        DzDYYMA2xHaMjRF6IpAwIPEQAiEkEEhCIAkEQggBEhKvqwcSEkgIQW9/TveZ6Tv3dM/04/T09Hw/Vd+a
+        e+dxZu707/76e37n0dMC4Y2jR48Gr7/+erBnz57g8OHDwZtvvhkcPHjQ6J133omfFQTvvfeeee6+ffuM
+        +Jn7hGgSimfRJhTPok2MUjzLeFYMB/DYsWPBu+++a2SDYe/eveYgHzp0KHj77bc7B5rnHjlyxDyPn+1r
+        hWgCimfRJhTPok2MajzLeFaEDQB6GgcOHOgc8GQw0BOh98Hz7PN5Hq/hZyGaguJZtAnFs2gTox7PMp4V
+        kAwCDjiBYHsblLh5nF4Gj+3fv78TJNy+8cYb5rFh9DqEcKF4Fm1C8SzaRBviWcazJDYIOKgEAAeVg09P
+        gwPPPAuLDQbK4DyXn+mdKKmJpqB4Fm1C8SzaRFviWcazJMePHzcH3QaBxU7sTQYC2DI4PRF6IQSSEE1B
+        8SzahOJZtIm2xLOMZ0noPVC+ptTNLYFBj4SDTU+DW4LB9jQQPRSCQD1p0TQUz6JNKJ5Fm2hLPMt4FoSe
+        AweUWw4qQUCvglvbI7EiGBDlcYLEvl6IpqB4Fm1C8SzaRNviWcazAPQy6FHQs7AHlGAgAOh1ICb+8hzK
+        4XY+BkHC84RoEopn0SYUz6JNtDGeZTxzQrmag8uB5cAny9e25E0ZnCChh2IheJpU6hYCFM+iTSieRZto
+        azzLeObkrbfeMgeb3kTvgaU3wgG3wUAvhN+FaCqKZ9EmFM+iTbQ1nmU8B4SDTK+Cg8wBTvYu6HnY33ke
+        v9M7oZdC4AjRNBTPok0onkWbaHs8y3gOCAeYAKBnwQFm7gT3Ma+C3gjl8CQ8zn0EhRBNQ/Es2oTiWbSJ
+        tsezjOeAcNA5uPQsWE3GLQeaoCAQeKwXXiNEE1E8izaheBZtou3xLOOZExsMXAeV1WT0SFxBIMQooHgW
+        bULxLNpEW+NZxrMAdk7FxMSE6YEk518IMWoonkWbUDyLNtHGeJbxLECyDE4vhNtRmVshRC+KZ9EmFM+i
+        TbQxnmU8C0Iw2J4I5W8mAmtrDjGqKJ5Fm1A8izbRtniW8SyB7Ykw2ZetD5TYxCijeBZtQvEs2kSb4lnG
+        swLY2LV3c1chRhXFs2gTimfRJtoQzzKeQgghhBCiFmQ8hRBCCCFELch4CiGEEEKIWpDxFEIIIYQQtSDj
+        KYQQQgghakHGUwghhBBC1IKMpxBCCCGEqAUZTyGEEEIIUQsynkIIIYQQohZkPIUQQgghRC3IeAohhBBC
+        iFqQ8RRCCCGEELUg4ymEEEIIIWpBxlMIIYQQQtSCjKcQQgghhKgFGU8hhBBCCFELMp4e2P7qG8Hsldsl
+        SZIar09dfp9TX5m5Njh39iOSJFUkvIGQ8fQCwfUH/2+RJEmSJEmSkYxnhIynB2Q8JUmSJElKSsYzQsbT
+        AzKekiRJkiQlJeMZIePpARlPSZIkSZKSkvGMkPH0gIynJEmSJElJyXhGyHh6QMZTkiRJkqSkZDwjZDw9
+        IOMpSZIkSVJSMp4RMp4ekPGUJEmSJCkpGc8IGU8PyHhKkiRJkpSUjGeEjKcHZDwlSZIkSUpKxjNCxtMD
+        Mp6SJEmSJCUl4xkh4+mBssbzxodeCO7csEuSJKmwrr5rizO/SJI0HMl4Rsh4eqAK4ymEEGWQ8ZSkZknG
+        M0LG0wMynkKIYSPjKUnNkoxnhIynB2Q8hRDDRsZTkpolGc8IGU8PyHgKIYaNjKckNUsynhEynh6Q8RRC
+        DBsZT0lqlmQ8I2Q8PSDjKYQYNjKektQsyXhGyHh6QMZTCDFsZDwlqVmS8YyQ8fSAjKcQYtjIeEpSsyTj
+        GSHj6QEZTyHEsJHxlKRmScYzQsbTAzKeQohhI+MpSc2SjGeEjKcHZDyFEMNGxlOSmiUZzwgZTw/IeAoh
+        ho2MpyQ1SzKeETKeHpDxFEIMGxlPSWqWZDwjZDw9IOMphBg2Mp6S1CzJeEbIeHpAxlMIMWxkPCWpWZLx
+        jJDx9ICMpxBi2Mh4SlKzJOMZIePpARlPIcSwkfGUpGZJxjNCxtMDMp5CiGEj4ylJzZKMZ4SMpwdkPIUQ
+        w0bGU5KaJRnPCBlPD8h4CiGGjYynJDVLMp4RMp4ekPEUQgwbGU9JapZkPCNkPD0g4ymEGDYynpLULMl4
+        Rsh4ekDGUwgxbGQ8JalZkvGMkPH0gIynEGLYyHhKUrMk4xkh4+kBGU8hxLCR8ZSkZknGM0LG0wMynkKI
+        YSPjKUnNkoxnhIynB2Q8hRDDRsZTkpolGc8IGU8PyHgKIYaNjGd//eyOp0rJ1WaWXG3klavdPHK1mUd/
+        felyZ7tSf8l4Rsh4ekDGUwgxbGQ8s/W+s24Odkwcir+t/Lx64C1nu1m69ZGd8auL80+/Wu1se1Ddtv7F
+        uKViuNqUBpOMZ4SMpweaYjzXbJuoXU/uej1+99Hg4FvHOp/d9ujPm70+OPWahzq/28d5bpvgWPF3LVqz
+        w/ydFy7aFPzdz1eaW37nfh5vyjG1x6FXw8Z+j73atfdw/IzhIOOZrb+46O74myrGssdfcrabpU079sev
+        Ls49Bd43qSd2Fv8Mx999z9mmNJhkPCNkPD3QFOPparsu/dl37zLmZdgnXxcYSEzVJ390r/OzZ6nJf9cg
+        cLLEWH/wvNucf1+WeB2vHxauz4SGycI1Lzg/0wfC71fGs9k65dcPxd9UMS5f8qSz3TT9p28uqazz6mp/
+        EH3423cEh4++E7eSnw0v7HO2Kw0mGc8IGU8PyHhOFhW0JlQLMZtUMl2fsYgwrrTZ9EooFTmOQRGz6RLm
+        m/bqroS6PgsaFlmmswlVYhnPbF1yy+PxN1WMf/zFA85203TylSviV5bni7980Pke/cSIRhlmrdzubFca
+        TDKeETKeHpDxnCrMyrBOxg8/M1GoujmoMHQY0KaBIaZK6frMVYn26zLervdHw6DpphNkPLN1w+rn42+q
+        GB/6xmJnu2k6b876+JXluXtTseH2b9/wWNxCMc6d/YizXWkwyXhGTDKe7777bnDs2DFz+95778X3irzI
+        eLqFQavzpPz64aPBOTPXBH9wxkLn56laVBOaMgSPEa6qwtlPvA8nQt+43hvVDTGc9t36jO+8+VnGM1tr
+        t5WbH+xqM0u/WPp0/MpqcL1HP/12+bb41cX46A+XOdstpDAvn3j6gtrycxMk4xnRMZ7vvPNO8NZbbwWH
+        Dx82yU3GszhNNp5UZP72Zysr13+94E7n+/WqLvO5YPX24ANfDRPbqfMGTm7J74b5X3n+Liv+PuaADgu+
+        Wwyw67Nlqffv/sSP7nE+L0u+jbfrPVGdZJlOqqC+KJKfZTzTddK5twUTB4/E31R+duw57Gw3S3c8tit+
+        dTXkHepHyze/HL+6GK42C+n0G4MTT5ufKz+3QTKeEcZ40oN+8803g9dffz04dOhQcPTo0U6vWgY0P002
+        npgKn3Dy5T1c723FsLvP4dmfLtkcJrV5wQlfnhUmtrnBiTNsYguVSHCYq9/dt20gs8Tn5bmDGjKGoOsm
+        yxQlhcFmyGzQDgDVzEGH2Hx2LFzvh+piWKazaH6W8UzX/750efwtFWPJoy86283SU7sOxK+uhrs27na+
+        T5red+bNwfOvFd8+6uCbx5zt5tYZNw2Un9soGc8IYzxJagcPHjS3NpFx+/bbb5skJ/IxzsbTglnB4Lg+
+        A/rBwk3xM6sFw2eS2imzzW33PaNhnZO+Fr13GXOEUaWNrL8PUQGsa/4j81j7mU6OfZkhcf4WDFY/8+3L
+        fLreC9XBsEwnFM3PMp7pOnvmuvhbKsbFv3/c2W6a/vQ7d8SvrBbXe6Wp7PZRbBHmajevsvLziTNuSNzX
+        Psl4RkwjgZHUDhw4YBIZcB9Jbv/+/UbJhCf6I+MZwck6y5xVPSxrF9KQ1ExiYwgnfi+S3Kd/dHvw5Pbd
+        lcUzn5+hafseLrGoybf5xPi43tuKY1D1HEyqv1nH1of5dL0P8g3HOc10+upAWcrkZxnPdJWdDvP5n93v
+        bDdNZVeTp/H3Vw8+3F52+6hr7n3G2W5epeVnKqCmCnra/PC+dlY+ZTwjjPFkCIfEZucOcfvGG2+YhId4
+        nPlFDO+I/sh4dsF8uD4HqnIuZHebpIVhUgsTWCKxnXTOzcHs+570Fs/9qrs+zWc/08kQua/3xpBlTauo
+        2ny63gP5hO8ubUcEvlvflMnPMp7puu2Rclfv+cOv3eJsN03fml9uNXkazBt1vZ9LP7rlifhVxTjzd2uc
+        7ebT1PxsKp2nzgnvi2XN5xk39bx29CXjGTGNRGaT15EjR0xio2fNz/aWXjWJjgnuoj8ynpPBYLo+C8ak
+        CnrbjxJYmNhmzA8+ccmyYO+Bw97jGYOSNQSNMa6arOFf5HsI2JI1/5PPV5XxdbWPfDFs0wll8rOMZ7rK
+        XL3n7XfedbaZpd/c+0z86upxvZ9LC0puH/XfvneXs928Subn5BC7vY3mfs4xC5Bcrx9lyXhGmDme9JZJ
+        bCQ4kpeduM4tyY3eNs85fvy4eZHIRsZzMpzA0yqCZStizG3sbZPeMr3qj33/tmD/oSO1xXM/81nlcHeW
+        KUJ1mU4LQ86uz4GqGmZ0tY18kPX9lh2y7AexiixF87OMp1v/+du3x99QMZ7efcDZbpa4zKUvvnDVKud7
+        9mrttj3xK4rharOIbH7GgJqqZmJhEQuNjClVxbPVGONJwmK15L59+zrDNkxaZ+4QSY0etUzn4Mh4TiXN
+        mJQZbsccfPDcW6OecTJJhT9//AeLgx27X609nrPMJ9W/qua1Zm0MX7fptGQN+zMntCyudlHVZJlOji2P
+        +wIziblMxmfR/Czj6VbZHNhveotLOyaKrybvxyAr7Mk9rx0ovn3US/vfdLbbV5hKR35mNfsJ06/vDKub
+        ime86Ij72mg6kYxnhBlqRyQ7EhmJjQSHSGgkvEH3jRMRMp5Todrn+jxFq0fE4+evuDdOVDaBsUpyoamu
+        7nvjraHFM8Ykbf/PKqp/ad8lqsLglSGr8lm2uu1qE1UNx8j1Pj5NJ/GImcRIWoNJ/HI/KpKfZTzd+ua8
+        R+NvqBgX3LjB2W6aGKL2jet9k/qbn9wXP7MYK596xdluuqhe3uDMz+Zxs49nvKAIA2pNKNsrmSF2LS5q
+        M9NIdnbohl4zv7NJMaJnTVIT+ZDxnAon7Ko+D/G6avNuM1TTVZTgSHZLN+4aejy7pgBYla1Isg+qq91h
+        HdskHOe0im9Z0+1qE1VJWiXZp+kknolThtKtrAEtk59lPN1idXYZMHGudtPERu+++duUzpLV164vt31U
+        rljqDJm783N3aP2mTqXTGE4qny2c15mUjGfENBJY7zANic4mO5EfGU83VXwee5I++dI7TTIzicv0nueH
+        veaZwZeuWt6YeE6r/mEci5I2zEeV15cxykvWTgYY8qK42kNVkWY6fX63Np6t2WSxENVNTOWePXuMwSwa
+        zzKebpWdb/lvznS3m6bv3bQxfqU/blufPdxOLJThy322jevImM640unIz1ypaMowOkbUmtHk/S2UjGfE
+        tORQjYxmNch4uqni8xCryzc8Hyax60xPOUpiUbL7ozPnBi9P7G9UPKdV/4pWPdOqnVXv01kWhvxdn7NM
+        1dPVHqqCLNNZ5ZZQvRCrrEjHZDKUjskkbjGje/funTSUnjeeZTzdeuX1t+JvKD/7Dh11tpmlmSuejV/t
+        F9d7WzEPtAwf/vbtznZ7ZUwmWyM58nNkPOOhdGM03W20WTKeEdMYziHx0dPu7VmLYsh4unF9nrzb0lDp
+        +dzly0wSM0M3bMERiuGc3931qBmebFI8p83HLFL1TKt2Ym6bSNo816JVT1dbqCzDMp1APFPdxGQSu6xS
+        R1RAJyYmSsWzjOdU/fn3l8bfTjHWP7fX2W6WmB9ZB5/7afqm9ptfLB7H77z7nrNNp6h4xtXN3vx8wj9d
+        F90XGlOMaFsXEGVJxjNiGsM7dsJ6ckK7KI6MpxvX58m7qt3MnWRuEMktTGJmcnqoPzprfvDSa/vMcGXT
+        4jnNgOWteqZVO8vOGfVF2v6tRReUudpCZUirzNZhOi0YSsynjVkrDGeZeJbxnKov/vLB+NspxtwHnnO2
+        myauj37gzeiKU765Zd1O52f4L+ffGRw+WnzP4mdePuhsN1WO/BwtHLJzPfk9fOwUFhy19ypFLsl4Rkyj
+        d01vmoTGfCJ+l/Esh4znVNIW2wximohHhhuJzXOuXxu+jjlBNrmxKnJm8OOF6zrPaVo8p1Uq8xiwtMop
+        prapMC8SA+f63EW2lXK1g4qSdlyQTzOfjGc7tM4tMYu5pPpJxbNsPMt4TtWFi8pd4vQbc9O3MXPpf15Y
+        7vroeXF9hv979ar40WIs3bTb2W5XC83wOZVNO7Tem5/NfM/4OWbeJwuKEK9xttlOyXhGTLNJzE5YF+WR
+        8ZxK2kKbLANiT8iceJnrxsn4pLPD5DUjTnAmuUVbcmx5/uVJJ+WmxXNa1XPQRSs+9kGtg7SqZ5Ftn1zt
+        oCIMw3S64tmaSbt3pzWfVDrLxrOM51TNWbU9/naK8ZeXpF8gwqXp/7o6fmU9nHzliimf4YIFG+JHi/GT
+        xZuntNkRORgjyb6cp8wJb0Mz6cjP0UIjTGZc3TQLijTUPq5MI+HZ5CaqQcZzMpgr16Ud+83vtCdi9ivk
+        RPzQZhYVxfu92Ynrob509X3mOaip8ZxmHAddFJQ2zN6UlexppK1wLzLc7moH5WVYlc7eeGb4nOomRhMD
+        irFMPqdsPMt4TtWjz+2Nv51iuNrM0g9vfjx+ZT3cvHbHlM9Qdm/ff/iXB6a0adQxlgybx/t1OvJzx3yG
+        ii6DOT5D672S8YxwbqckyiHjOZm0qlfWIhNOtrb6w/w3TspXLtkcJjE7fMOqyeiyatfeu7UzR66p8Zw2
+        VD7I4iqqwq7XNnVRUS+u4XY6InnpbcMqD2nHAfmsHrvimTjlZ+5jVbu9H1URzzKek/WHX70lPA7xl1OA
+        F1P+D7PEnNC66f0M921+OX6kGH/89cVT2kTWUEZ5uHd4vZufu/ezsGhudJ+jvXGQjGfENJKaKp7VIuPZ
+        Ja3i1c80Mb+NxRWIEzGYyxiyapKtOeIeNPOGeA/imKHJpsYzlUnX9zDI6va0BTBUUUcBzLXr8+dd3e5q
+        Aw0KceKqvKO8uyvkxRXPxCk/s3US1U0MKM+DKuJZxnOy/uqSch21/FfvWRRs2rE/fnV9fPry7nD7v/vK
+        74PnXyt+uU4WRiX/HiszV9MsFuJ664kKpiM/R/eH5tMOwaviOfaYa7WLapHxjOBE7xoiHmTFMCdjhiOR
+        PVF32jA96LC3PX1m8JFv3do5MTe9A8V3n/werPottGFY2vW6QYfph03a0HbeCqOrDTQIwzSd4IpnC+aS
+        yiZVT+Z/VhXPMp6Tdca1a+JvphjXpnQA0/QfvnpL/Mp6Wfhw9//t4xcvi+8txobn9036m6yMuWR4PdQk
+        44kS+fnEGXE11Dw2vobTSsYzQsbTAzKe0Sr2tBP9IIaJyg+LL6gEUfl5aOtr3TZMr3qBGc45+9oHppzI
+        m0qRKQeQZlhHhbSpAnlj0dUG6sewTSf0xnPSVPIz99lN5KuKZxnPybp88eb4mynG2TPXOdtNEwuRhoX9
+        DKf95uH4nmK45owiKplmb06qmmbRUOLxRH7uDMMnHx9jyXhGyHh6YJyNJyYjbUNuNOhEd07GzHPjRM0J
+        +8Etr8QJLJRJbNGVMC6/ZUPpylBdpBnPfgta0hYWjRKuz1+H8cwynew0UNfirN54touGkB1uZ6FRsuJZ
+        FhnPySp79Z7/8YOlznbTNOO35UxfGez15H986xPxPcVgcVTv32XVmc9phtuZyzk1P3Mr49mVjGeEjKcH
+        mmw8MTEYoKrF/nhmDqbjPRHD63lXV9oqEVdwuWX11iiJsRdcYpjnysX1rhotQ9pepnx/WbheU1fluipc
+        fwPxkgdXGyiNtN0UkqpzukIynrnFbGJA7TC8NaRVIeM5Wbv3vRl/M/k5euy4s80sXXpbOdN3f4krHi14
+        6HnzGRasfj6+pxhZV0PqVD25IlGYi135uTPHUzKS8YyQ8fRAk43nMIRJSpvHmFXd4TFO1ux5eMmNa8Le
+        NVt1RNt1nMBl18KktnTj7vjZzWecjWfaNevz4Ho9coHpzOoIWWFM+803zsOg8Uzlk1XriJ9ZdMRjVVU7
+        Qcazqz/558Xxt1KMLbsPONvN0m3ri1dYDx05VvgKXxY+w9pte+LfisFOAL1/V1cLTQ42e3h2cvPk/Kxq
+        52TJeEbIeHpAxrMrTv6u4Ux7EmZOW9YJl/upAjGkToIzOs1e8WJh7pXRwwSD4/qOsk4wRV7TRDDKrr8j
+        D67Xo14GNZ1WaTGah7zxzJA6C4owobymd95nFch4dvWZK1bE30ox7nhsl7PdLO3ck//qXJYndu43bZTh
+        ry9dHrx24Ej8Wz6IxR2vHYxzbdbem+H9mM8Z0SbyvfnZ/ZrxlYxnhIynB2Q8J4uqElW9ZNWTxMbJli1k
+        OPm6Ttb8zopfHvvZ7U/G84jsXKKo7VEynkUW2aRVSetaFFMVdRnPLNPJd4ZcjzEvuQx545mfmdtZZruk
+        fsh4dnVeyf+Xf1n6tLPdNJ10bv59apMsXv+iaafMhvfzHyw+zE5Mrnhil6leGjOZZiRZwW6NqSM/S5Ml
+        4xkh4+kBGc90cYK31SWSG1WftJM1J2YqQ8x/Y/N4V3ujZDzTTGTWfpx8V67XjNpQex3Gs5/ptM9JG/Yv
+        e9WiPPGM4fSNjGdXv75na/ytFIPV4a5200S1sQxX3Rkdu69dvy6+p36uv/9ZU73sms+e+ZqYzhnzzVxO
+        YziTj0lOyXhGyHh6oMnGk5MuBsiXWECEkUq7Njm94U9eck/HfIK9oguLK5InZE7czH1jm5nfLGNF+NSe
+        dL/5kU2C76f38w/yN7heM2rG0/U3sOAsD642kOXUa9z7nfZWh5m+kHY1pbzzPTGTSXMJg8Szj6H1XmQ8
+        u1r3bLm5jh85/w5nu2k667q18SuLgeG0bdVJMp65xjvvb81nZ/V6/LkwomZxEavXNbQ+kGQ8I2Q8PdBk
+        41mnYcFodQ1ovMUGqx3DJPbx7y8OXtl7wKzo5YTMyTq5spfkh+zQ5KR9PBMaJeNZdCN112sGueJRk3D9
+        DXlj0dUGgrQtvNKmJKQdC77XZKcoDWLTrkbHZGIoieFB45mffSPj2dU7x4vvjbr30FFnm1miYlmGT10e
+        bYeEtr50IL7XH654/l8X3xHm7AXGYJqtk+KV6t3rrUfD68Z0anh9IMl4Rsh4ekDGswsncTuvjgRles5h
+        D5nVj5jP3a/uNUmOEzQJj1W+/N57ci5aLWwSfFbX38DflkUVw9TDhBhwff6qjGde02mxcdkrKqf9IDbt
+        nE4qmMQtMYwGiec6kPGMROe3DOu373W2m6VVW16NX52fPQePBB/6Rvf66FQefdMbzxN79kbVTMxmfGnM
+        E04Jc3eYt7lUpiqcxSTjGSHj6QEZzy52AcU5s9ZFvWM7bMO2G2FSO+s395tethUnahIfc+WSexpWdfWb
+        YZJ26cuixjNti6qmwV6Zrs/fzxj24mojTYOu+k+b75m256yNZ07U/GyH1a3xxGQOEs91IOMZ6e+vfiD+
+        RopxU+ISlINqkKp5GkwLSLb1b8+6OX6ketLi+ZEtOxKmM6p0GpG3GVo/dW5c+Zz8d0vZkvGMkPH0gIxn
+        BAmN4Ruu2MLPxkAlzWeYyBjKeeHVA6a3bYcn7Umc+5KkzRsdFdI2M+93kmLOrOt1ZRfD1EXa5897QQFX
+        Gy5hJgc98WPeXfM9UW+HoDeeIXmyJnaJWaqbg8Szb2Q8I33vxo3xN1KMS299wtlumv7jPy+JX1kM8n9v
+        m2U2v08jK54XPfBUJz+boXZuyduYz+kUDWzVc/LnlLIl4xkh4+kBGc9o6IaVvZyQueWk++KeQ9HnMOZz
+        fmfI/avXPdQZhuSWJEgC7CVtaLTOq88UJW0/TkxSP9KmGYzKXp5pK83zVmxdbfQqj+m0pFVk6SjYtlzx
+        bGOWWOXkzSUvMZnJx7Li2TcynpFueWRn/I0U44u/fNDZbprK7hnqMrrcVyX94vmqJZs6+XnysHo0r1Nz
+        OotJxjNCxtMD4248SWD0mqny2N40yYz7MZlmWw5rPuMh9+0v7eskPnvbS9qCkKztiJoC1T3XZx90jmra
+        Kuymg3Hr/dyoyLw7VztJFTGdlrSq7N/9fGVmPHPCpsLJfTyG8aTKSSWpXzz7RsYz0o4SG7kDFUxXu2nK
+        O4WkF67x3tvmh75e7spLSQaJ5/NmrZuUn83lMHs+k5RfMp4RMp4eGHfjSRJLXgbQ3keyW/PUzu6GxB3z
+        OSs46zcrO89NI83EUFFrOhgY12cfdPuetPmhebf/qZsqOwuudqzKmE4Lbbja/umSzanxjMnkfk7YnMC5
+        jypS8rnDQsaz/PxIrj7kajdLs1duj19djL+8xB2HB96sZqpGVn628fyxC++alJ+d+3hKuSXjGSHj6YFx
+        N56cgFlQwRCO3UqGEzNJjZPyn359YTeRmeQ2L/jsZXcPdKJOMwf9FugMk7Sh8jz7WKZVTMtWV3zD9kSu
+        z11keoSrHVSF6QTacM73DGN04crNqfGcNJrWfCIZz+Hroxcti7+NYtz/1CvOdrP0+M798avzw/STtOuj
+        /2Lp0/GzytEvP+94aWJKfjaS8SwtGc8IGU8PyHgeN/PdkidjhnRY2UuC+9JVyzu9aDNXKNQHz701fnU2
+        aVsSUVFsKmlzU/OYxrRV/aipq9urMNxJXG2hKkynxfmZw5Pv+8+cGzy941VnPHNLBYkTOSdxqkfcDhsZ
+        z8G2xsriuhXPOtvNUhnYhsnVJvqz75bbFsrSLz+vfvLFKflZczqrkYxnhIynB8bNePaeZDnxMn+IkzEJ
+        zT5uby+/dWO0KvK0+eFn6ia0QUitSoVqogGr0jCmGdimznFNm15QdO9VV1uoan52+5OT3yM86RKvH/vu
+        rc545jKYdr5c7//CMJHxXBT88u5yVUJ79Z5B9eFv3x6/shizVm53tmt1/N388dUbk/3y8w2rnnHmZ6m8
+        ZDwjZDw9ME7Gk2TFsCK9ZTu0yH3JoRu7apLHSXQ/XrjOJDYqScnPNuhweVrVs4nDzlVUOy1pJja5+rop
+        ZFU7i35WV3uoSmw8n3zZ3dE85Pg9+JlFFt+6/sEp8cxJHFE5ahIynuWn4KR1ntJUNr/+YOFGZ7tWXD89
+        D0Xy80UL1jjzs1ReMp4RMp4eGDfjSVKz89xIYECvmkoQ9/EYItGhS29eb/aF6/1sg54ksqqITdpaKc18
+        oaLV2bRFRmWHFKsEY5k2t7NotRNc7aEqsfG88+WJ4P1fYQ/DOE7PsJd8nRNcf8/jk+LZnribhoznouDo
+        seKdgSPha99/zq3OdtN00aJyow/9tm76q0v6b7+WpEh+/vIvVjjzs1ReMp4RMp4eGDfjSTKzQzd23hD3
+        k9x4jMRnkxo/f+6K5c7Plqc6kVZJbEr1L8t8lanMZpnZpmwon7Y1UZlqJ7jaRFWSjOeHn3zBXLmls6gC
+        8xka0ZPOvjFYs2VnJ55tJalpjLvxLDqX2PLUrgPOdrO0eP2L8avzwzD6n39/qbPdpPJQJD//9wtud76v
+        VF4ynhEynh5ou/G0SYuhRX4Gm9yYtM6tXS0J3PJc+/y0K/jkqQLy3LS5nk2o/qWZL1S02mlJq3ryvZZt
+        uyxZxrhMtRNcbaKyZMXz1bc+4hh2XBh84pJlweuHu3t1NpFxN57/57Ll8TdRjNsf2+VsN0svlvj/e/aV
+        g842e7VozY74FW6y4rlffubzu95TqkYynhEynh5ou/Gkx0zPmR4yCc0mMO4nqU1MTHSSWy9pV4lBeUnb
+        IxINs/qX9bnKmi+gaphmutnTdFgVX/YUTetUsOVRWVztorL0i+d/uOJOM7+z99rU581eb57XVMbdeH7n
+        hsfib6IYRb6/Mix7PD03JvXZK++PX+GmTH7OWlUvlZeMZ4SMpwfaajxJYFyRhaSFmCNEz9rC4709a5Jd
+        krTJ+kUv/5hW/UPDMJ9ZprPKaQ5ZlcVhmM8s04lJrmKje1fbqCiDxvPu1/YFHz6PxUVTr0+d93rzdTLu
+        xrNfZbAf58xyT+dJU9ntjq655xlnuy65qCI/91tVL5WTjGeEjKcH2mo8SWIkK3rTJDU7lEPPmYTGLc+x
+        PWsuH8icIZ4HPuYnYrC4/KKrTVSn+cwynWXnN7rIGs6v03xmmU5U1TFwtY2Kkiee125hb8Pr470NJ6/2
+        berVo8bdeD5X8iT/qZ/c52w3TdP/dXX8ymJ8c96jznZdWrpxd/yqLmXzM3z/puxV9VI5yXhGyHh6oM3G
+        005QJ7GRzLhlVS+JzK7u5Xnc8jy28iCxYYKyKmJlTBInfle7VnUMiaZt8WSVZ+FUHtKu5IQwn77nfPJ3
+        ZZnOKre4crWPipI3nufc96S5gkuv8WQRWV0mPw/jbjzLsPeNo+Zym65208T3XQZys6tdl770qwfjV3Up
+        k58t//iLB5zvJ1UjGc8IGU8PtNl4Jrfe4JZeM8M2ViQ4m8h4PuKkjAlyfR5UxbxHqmpp8x4R5sCH+cP0
+        Zv1tyGfVle82y3yiKr7fXnjfCxelV1wRprNKQ+Z6D1SUIvF8zqx1zs/QpO2sLONsPMtu5P7I9j3OdrP0
+        wJZX41fn5/DRd8LPfIez3TT1UjQ/W44dfzf4yHfyfQYpn2Q8I2Q8PdAm40mSIjkxZIPYYJiERhKzvWt6
+        zwzj2G05+J3nQj9jxjB5VfBeWeYTYZaqMEO00a/KyWepY1/RQcwnx6Aq480iiLStoqyqrHRaXO+D8lA2
+        nrO+ax8GvwzjbDxdFcE8kINd7WbpjSPF88rmnfudbWbpwadfKx3PSba+lH/7KCmfZDwjZDw90BbjSVJj
+        eIaEReICkhw/M0+IW55DEuOWJEfS436GePtVxDBmVc+PG8R8IipUGKi88Bpe62ozKR9/WxYYoqyFVlYY
+        0OtWbMs9BG+PZz/DiXyYTnC9FxqUMvGcJCvGfE2pKMI4G8+rSg57//jWJ5ztZqkM7P/pajNLZ177cCXx
+        bLlrw27n+0jVScYzQsbTA002nhiPNdsmMvXwM68Fq59+JVixaUewfMPzwcrNLwYPbX3V+Vzuf3DLS8Hi
+        tdvNpTAvu/nR4JOXZFffrHxVAzEGWQuOkmJ+InNAqVZhyHr/Pu7jMZ6TNZcxKd67TtOZBNPn+kwuscMA
+        fxvCUCf/bn7nfsxmv6kESfmcVuB6P9QPe+LlBM3Jl6oQJ+heeB73c9Jm7hvDkrzG9dy0hWTESBUV9SoY
+        Z+P5wNPFh71hkM5lUn9x0d3xK4tx1Z05j9UZN5mFblXFM3Bde+d7SZVJxjNCxtMDTTaeA+n0G80iCvYu
+        PPG0+dFiCnPVlhvNbed55jKCC0wCjJ47r3uVlwxRLfJpUGCQoXAfYqX5sI0HVbdBjXdVopLu22y73hdl
+        wcmXCg8nXoYZOUljQu0JOXkS5me2o7GLMZKVJBdpJh+j3gTG2XgyZ7IMH/3hMme7aSpb5f/q9e65w04l
+        8vParbsri2c61873kyqTjGeEjKcHRtp42mtSm61j5kSbZseXCoz2McRYxuaTXnevQe1tr0fMj6uzGsh7
+        5VktWlR1GK881GW86+hEWFzvj7Lg5MvKXhZZUB3ixMt9zHPjZMzJGnMKnMBtZcga1H6kzfekAzJsxtl4
+        lmHHnvxX75mzanv86mL8zaBbN/Xk52/OeaSyeP7MFSvc7ylVJhnPCBlPD4x6xZMqJonthOlhcgsNJcJc
+        nvDlWQOZS5cwKBihYVUDMUf9FuAUEZXFuoxXETDDg8z9zCuOZ93VXdfnQFlwEuakbFf3cgJGdtWv62Rs
+        T9yDwNzXtPmedSwsy2JcjefHLy53lawVT77ibDdLT+zcH786P2zd9MdfH2waD0rm5/edfkMl8bz/8NvB
+        n3xjsfP9pOok4xkh4+mBUTeedggdo2kSHOpUO6PnUAE9cUb/KieVQIzZsIefLRgxDFOZoWheSxtNqnD2
+        g++f41C2+ouJHZahcn0elAYnXGQrQqzyxYDa6meyOsTPVEYHqXL2knYZWOZ7+t5HNYtxNZ5sxF4Grkbl
+        ajdLZVifd+umnvz82NadpeP50ef2ut9LqlQynhEynh5oivHEZPTT5396f/C5y+8NPnvZ3cHJly41t5+7
+        Yrm5/7OX3xN85kd3BJ++eEnwmR/fFd63wryGx3kusvchTAlVTcTJuClmMw2MI5+V+Vn2b+g9FlRJuZ/n
+        8NxRMptpYIY4ufL32L+7t2qHubaP8bwmdB7s5+lVEjuvjSFG5rZxi+m0Q+5Uhex+htwHPM5zkb0vL8nv
+        MqlhDrmPq/Esmz/PX7DB2W6a/v3Zv49fWYybHs7Yuik2mWb+/Klzo1su29oZcp8VXDB7Vel4Xrhmh/v9
+        pUo17saTeCQ/y3h6oCnGsx/0hjkZk7QYqqEiZPd+IzgIkuQwDj/bpMZreO0gwzhC1IHieTLjajy3vXww
+        /gaK8YWrVjnbTdPJV66IX1mMy27b7GzXzKHHXJ4ypzPVyejUOeb+aI79/OADX7mhdDynfgapUo2z8Uzm
+        ZxlPD4yC8UyehG2SQiQtOyRJEuN53E9i4z6ej/IkNSF8o3ieyrgazzXPTJTSR87Pd/WeH968ydnOoJrx
+        24entktF086tZ/FmaDSN2EEkHmKnEmorn/esfzZYtu6Z4N5HtxutemJX2PZrU94rTc7PIFWucTWevflZ
+        xtMDo2A8CQJOvgQBQWHh5Et1iOFIgoRVwPY+TtSIn2U6RZNQPE9lXI1nG2RMJwbzlDnGXHYfi4fYpzPv
+        PjSk8S4jnQVH1pDanUekRmlcjWdvfpbx9MAoGM9k1Yd5cMkTLyVxKkV2FTCBgpiwjpIndiGagOJ5KjKe
+        oytjLm1l87R54X3J/ZOjzeNPmD7TGFRjTKl8sr9nvP1dsi2pORpX49mbn2U8PTAKxpOTMQFAMDAUaU/I
+        wEmbYck9e/aYTYd5rhBNRvE8FRnPEZaZvzkvYT4TO4gYk7kgNJ7XRabU3i81XuNqPHvzs4ynB5poPDn5
+        ciK2G2jzuw0GeiH2ZM199kSdrBAJ0SQUz/2R8RwlUbUMDWSyYtkxnwyhz+qaz47xtBVPGc9R0bgYz375
+        WcbTA00znhx4hhQ56TLkSNnbznWzwcBJ2Z6seS7Po3fCz0I0CcXzYMh4jojsMHloIs2WSeyPbA2oMZ/z
+        jcm05tM8N15kFM3xdLQpNVLjYDwHyc8ynh5omvEkADjpcjJGExMT5ncCgmBAPIeeCGIRBidtFl0QREI0
+        CcXzYMh4joaMsWRInQVDGMx/ui4ylTNuCB+P528a8xktHoq2VmIREVsqaT7nKGkcjOcg+VnG0wNNMZ4c
+        YA42K8mY20YvBNHjIBAQPwMnZHs/J2ueL9MpmoTiOR8ynk1XaChZRMTqdCqdVDJN5dPO7aTCycKi8LnG
+        fCbmfJ6quZ2jqDYbzzz5WcbTA00xnpxoCQI20GaOm4Vyt+2VIIKDoOF+AofgoDQuRJNQPOdDxrPhCs2k
+        2RzebAjPFkj2/nh43ZpPO5zO/aFR5TEzFG+fL42M2mw88+RnGU8PNMl4MsRIIHCwkxAMzL/gcXonnKiB
+        23GrDInRQPGcDxnPhgvjibHEePYaSUymmcfZs50SQ+saXh9Ztd14DpqfZTw90CTjaXsZVH56Yc4b898I
+        FJlN0XQUz/mQ8Wy4YuN5wil2Pufkx+0wPBVRmc12qO3Gc9D8LOPpgaYYT6o9DDPaXga9jiQEgi2N2wqR
+        EE1F8ZwPGc+mqztvk+pm75zNyHjOiR+T8WyD2mw88+RnGU8PDMt40uPg4Cbns3HwOdi2BM7j3MccDH7n
+        MTsnTogmoXguh4xnwxSaRzOXMzmsHppNM8/TDrlT+WSY/fQF5ndjPDWfszVqk/Esk59lPD1Qt/HkJMvB
+        pZfBPAoOdvLEy0HnflsG5+BT8uaWSb86SYsmoXiuBhnPBsnM2ZxnqpfRsHq3ghmZzGhfzmjoHcM5OzKd
+        LCRKPFcabbXBeFaRn2U8PVC38SQIKHFzcAkGehT0RhCPcct9PMZzCAZ6H8zD4HEhmoTiuRpkPBsiTCdD
+        6mbbpNB8hkbTDJ0b2SsRxdsoGcMZmk9T/dRVidqmNhjPKvKzjKcH6jSe9B7ocbBXIcFgDywHn/ttYPA8
+        21OhNJ7soQjRFBTP1SHj2QwxvM7m76Z6aY0kZnTGDVEF1AylU9WMjSi/a05nKzXqxrOq/Czj6YE6jScH
+        loO9Z8+eSUFA78JeNYDeBsEgRNNRPFeHjGcDhMFkGH36zITpZK5nfBlMrlLk2k5JaqVG3XhWlZ9lPD1Q
+        p/GkN8F8CgLB9jTsHAtEENiJvslJwEI0EcVzdch4NkAJ42krm3ZOZyQWFnElornaFH4MNOrGs6r8LOPp
+        gTqNJ70NJuzS27Clb0QwcOAJDjvHQidq0XQUz9Uh49kAUd0011kPjScbwVP1xIxiPkOjiTpzOmU8W69R
+        N55V5WcZTw/4NJ70MDigiJ+RPdj0NAgKHksGBKvJCBKCRogmoXj2h4znENRZMISieZrGXMYr1juXu0wY
+        0Gj1uq69Pg4aNePpKz/LeHrAl/HkQHJgmWNBWZufOdgceA40vRACgscICO4jCOh98FwhmoTi2S8ynjUL
+        IzkjMYzOnp2YydPD+03V8/rIfPJY+Ht3pXv4OyvdXW1KrdIoGU+f+VnG0wM+jCcHnABgNRliEi8HngPN
+        ajJ6IkzwJRCYf8HjiO0M6KEI0SQUz/6R8axRmM5TuQoR5jIUi4ZYPEQ1M963M7oS0azuoiKE8dQQ+9ho
+        VIyn7/ws4+mBqo0nB5kg4KDTq+DAcvDpWVDu5mDTw6CHQm+EnwkKbvmd1wvRFBTP9SDjWZ+M6YyHzM3c
+        TbNVUrRwKDKXtvrJYwuix+192iB+bDQKxrOO/Czj6YEqjScHkQPPwSYY6Ikk76fMTTAQFPaAczvIwRei
+        bhTP9SHjWY+ieZrRkHlkJLk/3hQ+vC8aXp8TPmYNJvNAZTbHUU03nnXlZxlPD1RtPJk/wcGm99F7gOll
+        0DOhHK5qkGg6iuf6kPGsQ/GqdbNwaJ75Pfm4XTzE/E7meiYfk8ZPo2A868jPMp4eqNp4UsbmQNPLsD0Q
+        C+VuAoR5FgSFTtSiySie60PGsw7FczfNXpxUNXvMJXM/WUQ0/TozxK5K53hrFIxnHflZxtMDVRpP4ODS
+        y2AiL72RJAQC9xEIlMJ1ohZNR/FcDzKedWlhVNW02yUlHwuNZrSivbuB/KTHpbFS040n1JGfZTw9ULXx
+        BA42gWBL4Bx0eiP0TuiZECgEhRBNIi0xKZ79I+NZn+xwu6l8xguMTLXTrGQPTekps6dWQ6WxU9OM57Dy
+        s4ynBwoZT3rGrHYMk9YND2yPW+rCQScYmPRLMHDLwUd2jy1Vh0RTICkRkyQt5gL1onj2j4xnhUrkZ6eB
+        NEPqofkMDaYxoNzG0j6dklVTjOew87OMpweKGc84cYU95tn3bUkNBrY14MATCEgnadFESGwkLpIWqyMV
+        z/Uj41mhEvnZmE8zbO54jtlGae5k08nczt7nSmOpJhnPYeZnGU8PFDKeTFIPkxnJ6ndLN03ayiAJB5yg
+        IVB4XCdo0USIS4ZnSFZMVFc814+MZ5Xq5udoIVHGJS5ZQBQPtWsxkZRUU4znsPOzjKcHchlPk5wSCSxM
+        WDPvecIEA72L3gNNAFAe1wlaNBGSE4mK+ETEq01uiud6kfGsQI783DWfc8P7eoxl+DiVURlOyaVhG8+m
+        5GcZTw8MbDzDhGaGYuxkdHP/wmDeqm3B7x/cGixc+VTw+9XPBHc8+mJw52O7gsVrnwtuDu/nPn6/a8Nu
+        SWqMiNNbHtpmdPsjO8x9xOmSdS8onocgGc+SSsnPZm/O+KpExnwak8kc0GghUfe+nvaksdcwjSemE3OZ
+        HFrHUDJ0zoIhht25tcaUYXY7p1PGcwQYyHjGSS26zBo95ESvOkxaZiJ7IrmZ5Bf+bqSJ6lLTpHiW2iTF
+        s+RBwzCemEZMJ4YTY8ncTsylJWk+7bC7fS7yMedextMDfY2nGY7h2r6zu0mNZEav2vaUze/xVS/C5GYv
+        u6aJ6lLjpHiW2iTFs+RJdRtPDKMdLmdIHdNph9uZ42kNqDWfVDgxn7b6yX0+kPH0QKbxJGElr3QRJzOb
+        xKIhHTtMEyU7kwDVk5aaKMWz1CYpniWPqtN4YiYxlskrEWFCuc+aTMynrWZyaxcc+TSdIOPpAbfxDJOV
+        6TnfZHrFppc8PUxuYY8akbzoNZvn9L427nFPuV+ShibFs9QmKZ4l/6rLeGIibWUTA4nx3Lt3r6l4Iswl
+        G8TznCT2ddaM+kLG0wNTjCc9ZuYBIXrF/G6SW3SlC6NObzp6Dc87cYadW6SkJjVIimepTVI8SzWpDuOJ
+        2aRiyaIgTKc1nwyfY0Bt9TNZ7eRnKqN1mE6Q8fTAJOMZJib2fDPDMWHPOUpU3E9yY0gnTG7TZ5rEZh8z
+        SS1OhDyv05YkDVuKZ6lNUjxLNcq38WQonYVByfmcgJnEWFLlpPLJMDuGFDClmFRk7/ONjKcHOsYz7CGb
+        Seph8uLWJC4SlbkliZHcusM4ZlgnTmqmh02PuidwJWloUjxLbZLiWapZPo2nXUSEueTWDrVzv61kYj7t
+        MDvG1JpOjCiP1VHtBBlPD1jjSaIiYZG4bFJjCIckR2/aDtF0e9YM6YRJLlT0uDt4JWkYUjxLbZLiWapb
+        vownhhEjyXA6xtKaTvbipAJqTWWy8smQO89FdZpOkPH0QMd4dhLWdVEyI9GFPWWT6BLzhaKedTyhPRQ/
+        26QnSU2R4llqkxTPUt3yWfHEZGIo9+zZY8wmVU8qmYiqpwWDyXPtfE9+rtN0goxnxXAAt+7eZ3rPUQ/a
+        JreZUdJibtDp3cRlhm7C5xgx9EPC47U9AStJw1InJhXPUgukeJaGpaqNJ37D7sdpK5x2Hiem0i4wssbS
+        LiLiefxsX1s3Mp4VYQOAnsbGbbu7CewMtudIJDfmBpG8wiA0iYzn0duO75OkZig8KcfxaYYWFc/SSEvx
+        LA1fVRnPpN9gqDy5gj1Z+Uzu1cktz+M1/DxMZDwrIBkEHPCN23YFv1zyaPDruzYFv1u+NZi5Ylvw22VP
+        Br+6/bHgV0seC6656/Hg2nu3mMd/fedG89jMFc8E19//rCQNXcTr78L4vGbp42HMbjBSPLdXX/j5Kqe+
+        d+PG4OKbHx95/XDRpuDCGx8LvjdvbXDB7NXBBXNWB+fPeiD8fU1w0U0bgovDx3+w4BHz2PmzHzTPu/DG
+        R83j3537sHmMNlxtS1IeVWE8e/0GxtNWNxlS53E7j5M5n9aUcss2Sjw2jCpnEhnPkiR7EnaSLgefngYH
+        nnkWFhsMlMF5Lj/TOxl2EAhhUTyLNqF4Fm2iLfEs41kSVo9x0G0QWOzE3mQggC2D0xNJzr0QogkonkWb
+        UDyLNtGWeJbxLAm9B8rXlLq5JTDokXCw6WlwSzDYngaih0IQqCctmobiWbQJxbNoE22JZxnPgtBz4IBy
+        y0ElCOhVcGt7JFYEA6I8TpDY1wvRFBTPok0onkWbaFs8y3gWgF4GPQp6FvaAEgwEAL0OxMRfnkM53M7H
+        IEh4nhBNQvEs2oTiWbSJNsazjGdOKFdzcDmwHPhk+dqWvCmDEyT0UCwET5NK3UKA4lm0CcWzaBNtjWcZ
+        z5xwWSoONr2J3gNLb4QDboOBXgi/C9FUFM+iTSieRZtoazzLeA4IB5leBQeZA5zsXdDzsL/zPH6nd0Iv
+        hcARomkonkWbUDyLNtH2eJbxHBAOMAFAz4IDzNwJ7mNeBb0RyuFJeJz7CAohmobiWbQJxbNoE22PZxnP
+        AeGgc3DpWbCajFsONEFBIPBYL7xGiCaieBZtQvEs2kTb41nGMyc2GLgOKqvJ6JG4gkCIUUDxLNqE4lm0
+        ibbGs4xnAeyciomJCdMDSc6/EGLUUDyLNqF4Fm2ijfEs41mAZBmcXgi3ozK3QoheFM+iTSieRZtoYzzL
+        eBaEYLA9EcrfTATW1hxiVFE8izaheBZtom3xLONZAtsTYbIvWx8osYlRRvEs2oTiWbSJNsWzjGcFsLFr
+        7+auQowqimfRJhTPok20IZ5lPIUQQgghRC3IeAohhBBCiFqQ8RRCCCGEELUg4ymEEEIIIWpBxlMIIYQQ
+        QtSCjKcQQgghhKgFGU8hhBBCCFELMp5CCCGEEKIWZDyFEEIIIUQtyHgKIYQQQohakPEUQgghhBC1IOMp
+        hBBCCCFqQcZTCCGEEELUgoynEEIIIYSoBRlPIYQQQghRCzKeQgghhBCiFmQ8hRBCCCFELch4CiGEEEKI
+        WpDxFEIIIYQQtSDjKYQQQgghakHGUwghhBBC1IKMpxBCCCGEqAUZTyGEEEIIUQsynkIIIYQQohZkPIUQ
+        QgghRC3IeAohhBBCiFqQ8RRCCCGEELUg4ymEEEIIIWpBxlMIIYQQQtSCjKcQQgghhKgFGU8hhBBCCFEL
+        Mp5CCCGEEKIWZDyFEEIIIUQtyHgKIYQQQohakPEUQgghhBA1EAT/H+4+mzqSwn83AAAAAElFTkSuQmCC
+</value>
+  </data>
+  <data name="textBox6.Text" xml:space="preserve">
+    <value>*We have the cheapest and most reliable shipping service
+
+*We have the largest library of books in the country
+
+*There are thousands of types of magazines and CDs
+
+*With the products you buy, you also give scholarships to students.</value>
+  </data>
+  <data name="richTextBox1.Text" xml:space="preserve">
+    <value>MEMBERSHIP AGREEMENT
+1-PARTIES
+This Membership Agreement is on the one hand, Güzeltepe Mah. 15 July Şehitler Cad. BookIN Medya Tesisleri Kat: 10 Eyüpsultan - ISTANBUL adbookINess, 6563 p. As a service provider in accordance with the Law on the Regulation of Electronic Commerce, BOOKIN MÜZİK KİTAP MAĞAZACILIK VE PAZARLAMA A.Ş. (hereinafter referred to as "bookIN.com.tr")
+and the "User" using the website or mobile application or other platforms belonging to the "Member" or "Visitor". used). In the Agreement and the User or Member will be referred to separately as the Party and together as the Parties. BOOKIN MUSIC BOOK MAĞAZACILIK VE PAZARLAMA A.Ş; D&amp;R represents idefix and other future brands.
+2-PURPOSE OF THE AGREEMENT
+On the website bookIN.com.tr owned by bookIN.com.tr (hereinafter referred to as " bookIN.com.tr") and / or in the Apple Store, Google Store and similar mobile application stores bookIN.com.tr determines the conditions under which the products and services will be offered to the User via bookIN.com.tr mobile applications offered by.
+bookIN.com.tr is an electronic commerce service that supplies products and services to its users. These services are provided through the website publishing on the bookIN.com.tr domain name or via the Platform offered over bookIN.com.tr mobile applications (the website and mobile applications will be used together as the Platform). The use of the platform indicates that this membership agreement has been read and accepted by the User. Therefore, this membership agreement is binding for all members, users and visitors who benefit from the bookIN.com.tr website or the bookIN.com.tr mobile application services. Users of this website, whether they are visitors (visitors: those who are not members, but use bookIN.com.tr services in a limited way) or members (members: users who register by giving their personal information to bookIN.com.tr), do not act in accordance with the provisions of this agreement. It means committed. The word "user" in the contract text also includes "member" and "visitors".
+3-USER'S OBLIGATIONS
+1- The user has read the entire agreement, understood the content completely and stated in the agreement on the website named www.bookIN.com.tr or bookIN.com.tr mobile applications (each mobile application has different provisions exceptionally in accordance with the relevant application store rules. and conditions), by accepting and accepting unconditionally and unconditionally all the matters included, declares and undertakes in advance that it will not raise any objections and defenses regarding these matters.
+2- The user does not use the services provided by bookIN.com.tr on the Platforms in a way that disrupts public order, violates general morality, disturbs and harasses others, for an illegal purpose, to the intellectual or industrial rights of others (copyright, trademark or patent, etc.) ) can not use in a way that violates. In addition, it cannot engage in activities and works that prevent or make it difficult for others to use the services provided through bookIN.com.tr or applications. The user already accepts and undertakes to comply with the above-mentioned restrictions.
+3- The member cannot give the password given to him by bookIN.com.tr or determined by him to other persons or organizations. The usage rights of the User and / or the Member with this agreement belong only to him / herself and cannot be transferred to others. The member is responsible for the use of the username and / or password by other persons and cannot hold bookIN.com.tr responsible in any way for this reason.
+4- The User and / or Member is responsible for ensuring the security of the username and password that he / she has set while signing up to bookIN.com.tr, to take the necessary precautions, not to use other members' membership accounts, usernames and passwords, not to access their data without permission and not to share the passwords belonging to others, otherwise the legal and criminal responsibilities arising from this will belong to them; to notify bookIN.com.tr immediately when they learn that their member accounts are used by unauthorized persons or their passwords are seized by others; It accepts and undertakes that bookIN.com.tr cannot be held responsible for the seizure of members' passwords, membership accounts, user names by third parties.
+5- The user agrees not to access and / or use the software, personal data or other information of other users who benefit from the services provided on bookIN.com.tr Platforms without permission, and not to make them available to third parties and organizations.
+6- User, messages containing legally prohibited information, chain mail, virus, worm, etc. not distribute any other content that may harm third parties with malicious software such as; It accepts, declares and undertakes not to send programs and / or information or use any method that may damage the information or software on other users' computers.
+7- As long as the user benefits from the services offered by bookIN.com.tr Platforms, the Law of Intellectual and Artistic Works, the Industrial Property Law, the Turkish Commercial Code, the Turkish Penal Code, the Turkish Code of Obligations and other legislative provisions and the notices published by bookIN.com.tr and accepts, declares and undertakes not to violate them.
+8- D &amp; R's website, mobile application and any other Platform's bookIN.com.tr logo and all intellectual and financial rights of the Platforms, content and software belong to bookIN.com.tr. The User will not use any method for the purpose of monitoring and / or copying, reproducing, modifying the contents of one or all of its Platforms or for other purposes that are not permitted or authorized; accepts, declares and undertakes that it will not create derivative works from this content or display them to the public.
+9- The User understands that bookIN.com.tr may include graphics, text, pictures, images, text and similar content provided by users through the Platforms, and therefore the User who publishes the content provided by other Users is responsible and bookIN. As a User, .com.tr is not responsible in any way and that it has the right to remove the content from the publication if it is published by itself, if this content is against D &amp; R's publishing principles and the law or if it is evaluated in this way by bookIN.com.tr. It accepts, declares and undertakes that it does not have the right to object to the removal of the content.
+10- The user declares that the information to be given about him / her is correct, that he / she will update this information at the earliest opportunity if the information he / she gives changes and if the law has foreseen for a period of time, and that all opinions, thoughts, expressions and pictures to be published by him / her are not related to bookIN.com.tr and it declares, accepts and guarantees that it has no connection and that they will only bind itself.
+11- The user may not use the bookIN.com.tr Platforms as a commercial promotion area, or attempt to promote or sell products or services through the Platforms or direct other users to sales channels. bookIN.com.tr has the right, at its sole discretion, to terminate the membership of the members it determines to be using the bookIN.com.tr Platforms for these purposes and / or to remove their pages from the publication.
+12- The member cannot claim any rights from bookIN.com.tr in case the member leaves the membership or the membership is terminated by bookIN.com.tr.
+13- The user, whether he is a member or just a visitor, for violating any of his obligations in this article;
+o In the event that he suffered a loss, he does not have the right to claim this damage from bookIN.com.tr, and will not forward any lawsuit or request to bookIN.com.tr for this purpose,
+o Knowing that if a third party suffers a loss due to its violation, it will fix the damage immediately and immediately at the first request, if not, bookIN.com.tr will recourse to it with all legal interests and other actors as of the date of payment of the damage,
+o If it causes bookIN.com.tr to pay judicial or administrative fines due to the violation, bookIN.com.tr knows that this amount will recourse to itself with all legal interests and other actors as of the actual payment date,
+o In the event that bookIN.com.tr suffers a direct damage due to its violation, it accepts, declares and undertakes that it will pay the related damage to bookIN.com.tr with all legal interest and accessories from the date of the loss.
+4-AUTHORITIES OF BOOKIN.COM.TR
+1- bookIN.com.tr can always unilaterally stop the service provided to the user and / or member permanently or temporarily, and has the right to postpone, limit and destroy the user access on any page or service without stating a reason or warning. Therefore, the user cannot hold bookIN.com.tr responsible under any name.
+2- bookIN.com.tr has the right to terminate or suspend the membership of the Members who report their Membership information incompletely or incorrectly and the Members who act contrary to the other terms of use stated on the Platform regarding this membership agreement, without any explanation. In addition, bookIN.com.tr has the right to terminate or freeze the accounts of its members, which it finds that it has not been updated during a certain period of time, without any explanation.
+3- bookIN.com.tr guarantees that the website or mobile applications broadcasting under the domain name bookIN.com.tr and the services provided by other Platforms will be uninterrupted or error-free or that certain results will be obtained by using the content of the site or mobile applications or linking to the site. does not. Although bookIN.com.tr has taken all kinds of security measures regarding the services offered by users and members from the website publishing under the domain name bookIN.com.tr or via mobile applications or Platforms, due to the nature of the information systems, does not guarantee that the user's system will not be damaged by any application or file or similar content. bookIN.com.tr cannot be held liable for any damages that may arise from the use of bookIN.com.tr or mobile applications or other Platforms, including direct, indirect or incidental damages, consequential damages and punitive damages.
+4- bookIN.com.tr reserves the right to reject, delay, delay, publish, or remove any message received from Users, e-mail or any message on its pages, without any reason.
+5- The right to carry out advertising and promotional activities on platforms belonging to bookIN.com.tr belongs only to bookIN.com.tr or to third parties authorized by bookIN.com.tr.
+6- bookIN.com.tr may give links to other sites with or without its own brand on the internet site under the bookIN.com.tr domain name, mobile applications or other Platforms. Considering that the content of the sites to which bookIN.com.tr links or recommends may change over time, the use of information by the users in visits to these sites due to the links given to external sites or recommendations made about external sites, the privacy policies and content of the relevant sites the external site is entirely responsible and bookIN.com.tr is not.
+7- The collection of user names, e-mails and other personal data on bookIN.com.tr platforms by unauthorized and unauthorized persons for any reason constitutes a crime in accordance with the relevant legislation.
+8- The content of publications made on bookIN.com.tr platforms may not be suitable for chilbookINen under the age of 18. bookIN.com.tr does not knowingly request information from chilbookINen under the age of 18. If, in any way, we notice that a user under the age of 18 shares personal information with bookIN.com.tr, we delete this information from bookIN.com.tr systems. If a parent realizes that their child has shared their personal information on bookIN.com.tr Platforms without their consent, they can request that this personal information be deleted by contacting Us. Records are deleted from the systems immediately, except for the records that will occur due to legal reasons.
+9- bookIN.com.tr is not responsible for price, product and any kind of update errors arising from technical reasons, and may update or change the prices announced and included on bookIN.com.tr Platforms at any time.
+5-PRIVACY AND PROCESSING OF PERSONAL DATA
+If you use bookIN.com.tr Platforms and remain only as a user or become a Member by completing your membership ("Member"), you accept, declare and undertake the following terms and conditions.
+The purpose of our platforms is to provide users with special advertisements, campaigns and other benefits. For this reason, you can take advantage of our personalized services and advantages when you shop through all channels of our Platforms, or if you do not want to share your information, you may not allow this by using our Platforms with limited features.
+If you remain only as a visitor and visit our pages without becoming a member, we will not collect any information about you except for legal obligations.
+If you allow cookies (these permissions can be managed by you in the settings of the browser program you use on your computer / mobile device), we will have access to some additional information about you.
+If you also become a Member of us, we may try to provide you with a complete service. In order to register your membership and to separate you from other Members; name, surname, date of birth, marital status, city and district of residence, educational status, gender and to communicate with you; Your mobile and business phone numbers and e-mail information or information provided through the social media platform you are a member of may be collected by us. Within the scope of our services, location data received from electronic devices can also be processed. In the future, in order to increase the benefits to the Members, additional information such as interests and family information may be obtained.
+Your personal data in the form you fill in to become a member; To receive your orders, to offer our products and services, to make your payments, to contact you for marketing purposes about your orders, products and services, to recommend products and services that may be of interest to you, to convey campaign and promotional announcements about brand partnerships, to provide technical, logistics and other similar functions of third parties on our behalf. to ensure their fulfillment, to send a bulletin by e-mail or to make notifications, to answer your questions and to provide effective customer service, to provide information about new content, and to be taken over by automatic / non-automatic methods, to be taken over, to be recorded in written / magnetic archives in the country and abroad. , storage, preservation, making it available, using, updating, modifying, combining, reorganizing, classifying, disclosing, sharing, transferring to the country or abroad, transfer and other forms, and it will be processed outside of this program. will not be used for any remaining purpose.
+Members can make the necessary updates themselves or request these updates to be made in case personal information changes within the scope of the program. bookIN.com.tr may communicate with the Member via SMS / short message, instant notification, automatic call, computer, telephone, fax, e-mail and other electronic messages and other forms of delivery. If you consent to sending electronic messages via campaigns, electronic bulletins and other means within the scope of this Membership, you can send your consent at any time in line with the directions in the messages or at https://www.bookIN.com.tr/Customer/Info adbookINess or http: You can exit the list by contacting bookIN.com.tr via the contact information on the //www.bookIN.com.tr/contact page and submitting your request to leave. In this way, BookIN.com.tr will make it out of the mailing list.
+Your personal data will be sent to the program partners, service providers, suppliers of bookIN.com.tr and BookIN Holding Company and its affiliates and to be determined by them in order to send electronic bulletins within the scope of your membership, to evaluate your complaints and to evaluate your complaints. It can be transferred to third parties in Turkey and abroad, including third parties / organizations. Personal data collected within the scope of your membership are automatically deleted, destroyed or anonymized by the Member's request or bookIN.com.tr after the termination of the Membership by the Member himself or by bookIN.com.tr, without prejudice to the periods stipulated by the relevant legislation.
+The member has the right to terminate his / her membership at any time. Membership cannot be transferred or sold to third parties.
+Your personal data processed by bookIN.com.tr is 6698 pp. In accordance with the Law on Protection of Personal Data, all administrative and technical security measures will be taken by us and will be stored securely without allowing unauthorized access.
+Detailed information about the Member's other rights on personal data and the principles and methods of processing personal data and the administrative and technical security measures taken in relation to the data are provided with the Clarification Text on our website at www.bookIN.com.tr.
+5-PRIVACY AND PROCESSING OF PERSONAL DATA
+If you use bookIN.com.tr Platforms and remain only as a user or become a Member by completing your membership ("Member"), you accept, declare and undertake the following terms and conditions.
+The purpose of our platforms is to provide users with special advertisements, campaigns and other benefits. For this reason, you can take advantage of our personalized services and advantages when you shop through all channels of our Platforms, or if you do not want to share your information, you may not allow this by using our Platforms with limited features.
+If you remain only as a visitor and visit our pages without becoming a member, we will not collect any information about you except for legal obligations.
+If you allow cookies (these permissions can be managed by you in the settings of the browser program you use on your computer / mobile device), we will have access to some additional information about you.
+If you also become a Member of us, we may try to provide you with a complete service. In order to register your membership and to separate you from other Members; name, surname, date of birth, marital status, city and district of residence, educational status, gender and to communicate with you; Your mobile and business phone numbers and e-mail information or information provided through the social media platform you are a member of may be collected by us. Within the scope of our services, location data received from electronic devices can also be processed. In the future, in order to increase the benefits to the Members, additional information such as interests and family information may be obtained.
+Your personal data in the form you fill in to become a member; To receive your orders, to offer our products and services, to make your payments, to contact you for marketing purposes about your orders, products and services, to recommend products and services that may be of interest to you, to convey campaign and promotional announcements about brand partnerships, to provide technical, logistics and other similar functions of third parties on our behalf. to ensure their fulfillment, to send a bulletin by e-mail or to make notifications, to answer your questions and to provide effective customer service, to provide information about new content, and to be taken over by automatic / non-automatic methods, to be taken over, to be recorded in written / magnetic archives in the country and abroad. , storage, preservation, making it available, using, updating, modifying, combining, reorganizing, classifying, disclosing, sharing, transferring to the country or abroad, transfer and other forms, and it will be processed outside of this program. will not be used for any remaining purpose.
+Members can make the necessary updates themselves or request these updates to be made in case personal information changes within the scope of the program. bookIN.com.tr may communicate with the Member via SMS / short message, instant notification, automatic call, computer, telephone, fax, e-mail and other electronic messages and other forms of delivery. If you consent to sending electronic messages via campaigns, electronic bulletins and other means within the scope of this Membership, you can send your consent at any time in line with the directions in the messages or at https://www.bookIN.com.tr/Customer/Info adbookINess or http: You can exit the list by contacting bookIN.com.tr via the contact information on the //www.bookIN.com.tr/contact page and submitting your request to leave. In this way, BookIN.com.tr will make it out of the mailing list.
+Your personal data will be sent to the program partners, service providers, suppliers of bookIN.com.tr and BookIN Holding Company and its affiliates and to be determined by them in order to send electronic bulletins within the scope of your membership, to evaluate your complaints and to evaluate your complaints. It can be transferred to third parties in Turkey and abroad, including third parties / organizations. Personal data collected within the scope of your membership are automatically deleted, destroyed or anonymized by the Member's request or bookIN.com.tr after the termination of the Membership by the Member himself or by bookIN.com.tr, without prejudice to the periods stipulated by the relevant legislation.
+The member has the right to terminate his / her membership at any time. Membership cannot be transferred or sold to third parties.
+Your personal data processed by bookIN.com.tr is 6698 pp. In accordance with the Law on Protection of Personal Data, all administrative and technical security measures will be taken by us and will be stored securely without allowing unauthorized access.
+You can review the detailed information about the Member's other rights on personal data and the principles and methods of processing personal data and the administrative and technical security measures taken regarding the data in the Disclosure Text on our website at www.bookIN.com.tr and our Personal Data Processing and Protection Policy.
+6-TERMINATION AND CHANGES
+bookIN.com.tr and the member can terminate this membership agreement at any time.
+bookIN.com.tr can be used unilaterally in the content of the website www.bookIN.com.tr and the website www.bookIN.com.tr or in the services offered on other platforms under the terms of this membership agreement, at any time and in accordance with legal regulations. reserves the right to make changes, adjustments and updates. These changes, adjustments and updates are deemed effective from the moment they are posted on the relevant Platform. Users are deemed to have accepted the updated / amended / adjusted items each time they enter the website published under the domain name www.bookIN.com.tr or each time they use the relevant Platform.
+From the date the member starts using the service to be provided by bookIN.com.tr in accordance with the provisions of this agreement, due to the violation of the rights and obligations and / or the actions and commitments stated in the agreement, bookIN.com.tr and / or third parties may It accepts and undertakes to compensate the damage and damage immediately and to terminate the contract unilaterally by canceling the membership of the member by bookIN.com.tr.
+7-DISPUTE
+This contract is subject to the laws of the Republic of Turkey, regardless of the conflict of laws rules, and will be resolved in accordance with these laws and Istanbul Courts will be authorized as duty and place.
+8-NOTIFICATION ADBOOKINESSES
+The adbookINess notified by the member to D&amp;R is accepted as the legal notification adbookINess for any notification to be made regarding this contract.
+Unless the member notifies D &amp; R of the changes in his current adbookINesses in writing within 3 (three) days, the member agrees that the notifications made to the old adbookINesses will be valid and deemed to have been made to him.
+Due to this agreement, any notification made by bookIN.com.tr using the member's e-mail adbookINess registered in the system is exactly valid and it will be deemed to have reached the member 1 (one) day after the e-mail is sent by bookIN.com.tr.
+9-ENFORCEMENT
+The member declares, accepts and undertakes that he / she has read, understood and accepted all of the articles in this membership agreement and that he / she confirms the accuracy of the information given about him / her. This membership agreement was concluded at the time the member became a member and entered into force mutually and indefinitely. With the termination of membership or the occurrence of any of the termination conditions listed in this contract, the contract will automatically become void without the need for any warning.</value>
+  </data>
+</root>
